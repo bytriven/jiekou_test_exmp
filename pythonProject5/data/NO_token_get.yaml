@@ -1,0 +1,7 @@
+-
+  name: 非token获取界面信息接口
+  request:
+    method: get
+    url: http://106.55.103.86:8088/api/tags
+    headers: none
+  validate: none

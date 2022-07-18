@@ -1,0 +1,6 @@
+-
+  name: 获取接口统一鉴权码access_token接口
+  request:
+    method: get
+    url: http://106.55.103.86:8088/api/logout
+  validate: none

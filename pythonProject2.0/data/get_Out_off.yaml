@@ -1,0 +1,6 @@
+-
+  name: 正常退出登录状态请求
+  request:
+    method: get
+    url: http://106.55.103.86:8088/api/logout
+  validate: none

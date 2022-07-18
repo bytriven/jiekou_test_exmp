@@ -1,0 +1,8 @@
+fixture固件，作用就是可以随心所欲的设置前后置，
+装饰器：
+@pytest.fixture(scope="",params="",autouse="",id="",name="")
+scope:作用域
+        function（函数，默认）
+        class 类
+        module 模块
+        package/session 会话

@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu Jun 23 10:42:53 CST 2022","Thu Jun 23 10:42:54 CST 2022","115","","test_api","TestApi","","","test_api_01_login[caseinfo1]",""
+"passed","Thu Jun 23 10:42:54 CST 2022","Thu Jun 23 10:42:54 CST 2022","114","","test_api","TestApi","","","test_api_02_Gettags[caseinfo0]",""
+"passed","Thu Jun 23 10:42:54 CST 2022","Thu Jun 23 10:42:54 CST 2022","96","","test_api","TestApi","","","test_api_03_get_OutOff[caseinfo0]",""
+"passed","Thu Jun 23 10:42:53 CST 2022","Thu Jun 23 10:42:53 CST 2022","259","","test_api","TestApi","","","test_api_01_login[caseinfo0]",""

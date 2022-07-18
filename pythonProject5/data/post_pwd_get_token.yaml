@@ -1,0 +1,10 @@
+-
+  name: 获取接口统一鉴权码access_token接口
+  request:
+    method: post
+    url: http://106.55.103.86:8088/api/login
+    headers: none
+    json:
+      account: baiyang2
+      password: 123456
+  validate: none
